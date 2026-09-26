@@ -1,0 +1,6 @@
+{
+  "name": "Time & Character: Personality Development Blog",
+  "description": "An editorial study and interactive essay on why time management shapes character, discipline, confidence, and long-term personal growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
